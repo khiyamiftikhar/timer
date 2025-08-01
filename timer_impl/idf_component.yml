@@ -1,0 +1,5 @@
+dependencies:
+  timer_interface:
+    git: https://github.com/khiyamiftikhar/timer.git
+    path: timer_interface
+    
